@@ -1,3 +1,3 @@
 # GameCodes
-Fun games I created
+Fun games I created \n
 Simple games! 
